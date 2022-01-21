@@ -1,4 +1,8 @@
-### Hi there 👋
+### ✨ PROFILE ✨
+----
+
+Sogang Univ. (2016 ~ )   
+Major in Mathematics and Computer Science
 
 <!--
 **dongbin97/dongbin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
